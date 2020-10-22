@@ -13,7 +13,6 @@ app.use(express.json());
 
 // STORAGE VARIABLES
 // noteTitle, noteText as properties
-const notes = [];
 
 // routing
 
